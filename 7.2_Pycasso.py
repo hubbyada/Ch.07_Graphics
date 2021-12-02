@@ -16,7 +16,7 @@ When you are finished Pull Request your file to your instructor.
 '''
 import arcade
 
-arcade.open_window(500,400, "Pycasso")
+arcade.open_window(500,400, "Adan Hubby")
 arcade.set_background_color(arcade.color.BLACK)
 
 arcade.start_render()
